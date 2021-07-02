@@ -35,4 +35,4 @@ test - npm run test
 #####
 
 ## Deployed Link
-[link]()
+[Link to Project](https://talentql-shapes.netlify.app/)
