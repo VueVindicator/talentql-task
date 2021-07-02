@@ -1,0 +1,159 @@
+{
+  "shapesData": [
+    {
+      "name": "oval",
+      "color": "red",
+      "svg": "<svg width=\"220\" height=\"170\" xmlns=\"http://www.w3.org/2000/svg\"><g><ellipse ry=\"59.36165\" rx=\"39.57443\" id=\"svg_6\" cy=\"70.48924\" cx=\"100.85106\" stroke=\"#000\" fill=\"#ff0000\"/></g></svg>"
+    },
+    {
+      "name": "oval",
+      "color": "blue",
+      "svg": "<svg width=\"220\" height=\"170\" xmlns=\"http://www.w3.org/2000/svg\"><g><ellipse ry=\"59.36165\" rx=\"39.57443\" id=\"svg_6\" cy=\"70.48924\" cx=\"100.85106\" stroke=\"#000\" fill=\"#0000ff\"/></g></svg>"
+    },
+    {
+      "name": "oval",
+      "color": "green",
+      "svg": "<svg width=\"220\" height=\"170\" xmlns=\"http://www.w3.org/2000/svg\"><g><ellipse ry=\"59.36165\" rx=\"39.57443\" id=\"svg_6\" cy=\"70.48924\" cx=\"100.85106\" stroke=\"#000\" fill=\"#00ff00\"/></g></svg>"
+    },
+    {
+      "name": "oval",
+      "color": "yellow",
+      "svg": "<svg width=\"220\" height=\"170\" xmlns=\"http://www.w3.org/2000/svg\"><g><ellipse ry=\"59.36165\" rx=\"39.57443\" id=\"svg_6\" cy=\"70.48924\" cx=\"100.85106\" stroke=\"#000\" fill=\"#ffff00\"/></g></svg>"
+    },
+    {
+      "name": "oval",
+      "color": "orange",
+      "svg": "<svg width=\"220\" height=\"170\" xmlns=\"http://www.w3.org/2000/svg\"><g><ellipse ry=\"59.36165\" rx=\"39.57443\" id=\"svg_6\" cy=\"70.48924\" cx=\"100.85106\" stroke=\"#000\" fill=\"#ff7f00\"/></g></svg>"
+    },
+    {
+      "name": "oval",
+      "color": "lightblue",
+      "svg": "<svg width=\"220\" height=\"170\" xmlns=\"http://www.w3.org/2000/svg\"><g><ellipse ry=\"59.36165\" rx=\"39.57443\" id=\"svg_6\" cy=\"70.48924\" cx=\"100.85106\" stroke=\"#000\" fill=\"#33d6ff\"/></g></svg>"
+    },
+    {
+      "name": "oval",
+      "color": "grey",
+      "svg": "<svg width=\"220\" height=\"170\" xmlns=\"http://www.w3.org/2000/svg\"><g><ellipse ry=\"59.36165\" rx=\"39.57443\" id=\"svg_6\" cy=\"70.48924\" cx=\"100.85106\" stroke=\"#000\" fill=\"#7f7f7f\"/></g></svg>"
+    },
+    {
+      "name": "round",
+      "color": "red",
+      "svg": "<svg width=\"220\" height=\"170\" xmlns=\"http://www.w3.org/2000/svg\"><g><ellipse ry=\"50\" rx=\"50\" id=\"svg_7\" cy=\"73.89349\" cx=\"104.46808\" stroke=\"#000\" fill=\"#ff0000\"/></g></svg>"
+    },
+    {
+      "name": "round",
+      "color": "blue",
+      "svg": "<svg width=\"220\" height=\"170\" xmlns=\"http://www.w3.org/2000/svg\"><g><ellipse ry=\"50\" rx=\"50\" id=\"svg_7\" cy=\"73.89349\" cx=\"104.46808\" stroke=\"#000\" fill=\"#0000ff\"/></g></svg>"
+    },
+    {
+      "name": "round",
+      "color": "green",
+      "svg": "<svg width=\"220\" height=\"170\" xmlns=\"http://www.w3.org/2000/svg\"><g><ellipse ry=\"50\" rx=\"50\" id=\"svg_7\" cy=\"73.89349\" cx=\"104.46808\" stroke=\"#000\" fill=\"#00ff00\"/></g></svg>"
+    },
+    {
+      "name": "round",
+      "color": "yellow",
+      "svg": "<svg width=\"220\" height=\"170\" xmlns=\"http://www.w3.org/2000/svg\"><g><ellipse ry=\"50\" rx=\"50\" id=\"svg_7\" cy=\"73.89349\" cx=\"104.46808\" stroke=\"#000\" fill=\"#ffff00\"/></g></svg>"
+    },
+    {
+      "name": "round",
+      "color": "lightblue",
+      "svg": "<svg width=\"220\" height=\"170\" xmlns=\"http://www.w3.org/2000/svg\"><g><ellipse ry=\"50\" rx=\"50\" id=\"svg_7\" cy=\"73.89349\" cx=\"104.46808\" stroke=\"#000\" fill=\"#33d6ff\"/></g></svg>"
+    },
+    {
+      "name": "round",
+      "color": "grey",
+      "svg": "<svg width=\"220\" height=\"170\" xmlns=\"http://www.w3.org/2000/svg\"><g><ellipse ry=\"50\" rx=\"50\" id=\"svg_7\" cy=\"73.89349\" cx=\"104.46808\" stroke=\"#000\" fill=\"#7f7f7f\"/></g></svg>"
+    },
+    {
+      "name": "triangle",
+      "color": "red",
+      "svg": "<svg width=\"220\" height=\"170\" xmlns=\"http://www.w3.org/2000/svg\"><g><path id=\"svg_5\" d=\"m48.30355,117.4487l51.27655,-88.9361l51.27655,88.9361l-102.55311,0z\" stroke=\"#000\" fill=\"#ff0000\"/></g></svg>"
+    },
+    {
+      "name": "triangle",
+      "color": "blue",
+      "svg": "<svg width=\"220\" height=\"170\" xmlns=\"http://www.w3.org/2000/svg\"><g><path id=\"svg_5\" d=\"m48.30355,117.4487l51.27655,-88.9361l51.27655,88.9361l-102.55311,0z\" stroke=\"#000\" fill=\"#0000ff\"/></g></svg>"
+    },
+    {
+      "name": "triangle",
+      "color": "green",
+      "svg": "<svg width=\"220\" height=\"170\" xmlns=\"http://www.w3.org/2000/svg\"><g><path id=\"svg_5\" d=\"m48.30355,117.4487l51.27655,-88.9361l51.27655,88.9361l-102.55311,0z\" stroke=\"#000\" fill=\"#00ff00\"/></g></svg>"
+    },
+    {
+      "name": "triangle",
+      "color": "yellow",
+      "svg": "<svg width=\"220\" height=\"170\" xmlns=\"http://www.w3.org/2000/svg\"><g><path id=\"svg_5\" d=\"m48.30355,117.4487l51.27655,-88.9361l51.27655,88.9361l-102.55311,0z\" stroke=\"#000\" fill=\"#ffff00\"/></g></svg>"
+    },
+    {
+      "name": "triangle",
+      "color": "lightblue",
+      "svg": "<svg width=\"220\" height=\"170\" xmlns=\"http://www.w3.org/2000/svg\"><g><path id=\"svg_5\" d=\"m48.30355,117.4487l51.27655,-88.9361l51.27655,88.9361l-102.55311,0z\" stroke=\"#000\" fill=\"#33d6ff\"/></g></svg>"
+    },
+    {
+      "name": "triangle",
+      "color": "grey",
+      "svg": "<svg width=\"220\" height=\"170\" xmlns=\"http://www.w3.org/2000/svg\"><g><path id=\"svg_5\" d=\"m48.30355,117.4487l51.27655,-88.9361l51.27655,88.9361l-102.55311,0z\" stroke=\"#000\" fill=\"#7f7f7f\"/></g></svg>"
+    },
+    {
+      "name": "square",
+      "color": "red",
+      "svg": "<svg width=\"220\" height=\"170\" xmlns=\"http://www.w3.org/2000/svg\"><g><rect stroke=\"#000\" id=\"svg_3\" height=\"120\" width=\"120\" y=\"15\" x=\"30\" fill=\"#ff0000\"/></g></svg>"
+    },
+    {
+      "name": "square",
+      "color": "blue",
+      "svg": "<svg width=\"220\" height=\"170\" xmlns=\"http://www.w3.org/2000/svg\"><g><rect stroke=\"#000\" id=\"svg_3\" height=\"120\" width=\"120\" y=\"15\" x=\"30\" fill=\"#0000ff\"/></g></svg>"
+    },
+    {
+      "name": "square",
+      "color": "green",
+      "svg": "<svg width=\"220\" height=\"170\" xmlns=\"http://www.w3.org/2000/svg\"><g><rect stroke=\"#000\" id=\"svg_3\" height=\"120\" width=\"120\" y=\"15\" x=\"30\" fill=\"#00ff00\"/></g></svg>"
+    },
+    {
+      "name": "square",
+      "color": "yellow",
+      "svg": "<svg width=\"220\" height=\"170\" xmlns=\"http://www.w3.org/2000/svg\"><g><rect stroke=\"#000\" id=\"svg_3\" height=\"120\" width=\"120\" y=\"15\" x=\"30\" fill=\"#ffff00\"/></g></svg>"
+    },
+    {
+      "name": "square",
+      "color": "lightblue",
+      "svg": "<svg width=\"220\" height=\"170\" xmlns=\"http://www.w3.org/2000/svg\"><g><rect stroke=\"#000\" id=\"svg_3\" height=\"120\" width=\"120\" y=\"15\" x=\"30\" fill=\"#33d6ff\"/></g></svg>"
+    },
+    {
+      "name": "square",
+      "color": "grey",
+      "svg": "<svg width=\"220\" height=\"170\" xmlns=\"http://www.w3.org/2000/svg\"><g><rect stroke=\"#000\" id=\"svg_3\" height=\"120\" width=\"120\" y=\"15\" x=\"30\" fill=\"#7f7f7f\"/></g></svg>"
+    },
+    {
+      "name": "rectangle",
+      "color": "red",
+      "svg": "<svg width=\"220\" height=\"170\" xmlns=\"http://www.w3.org/2000/svg\"> <g>  <rect fill=\"#ff0000\" x=\"10\" y=\"45\" width=\"180\" height=\"95\" id=\"svg_1\" stroke=\"#000\"/> </g></svg>"
+    },
+    {
+      "name": "rectangle",
+      "color": "blue",
+      "svg": "<svg width=\"220\" height=\"170\" xmlns=\"http://www.w3.org/2000/svg\"> <g>  <rect fill=\"#0000ff\" x=\"10\" y=\"45\" width=\"180\" height=\"95\" id=\"svg_1\" stroke=\"#000\"/> </g></svg>"
+    },
+    {
+      "name": "rectangle",
+      "color": "green",
+      "svg": "<svg width=\"220\" height=\"170\" xmlns=\"http://www.w3.org/2000/svg\"> <g>  <rect fill=\"#00ff00\" x=\"10\" y=\"45\" width=\"180\" height=\"95\" id=\"svg_1\" stroke=\"#000\"/> </g></svg>"
+    },
+    {
+      "name": "rectangle",
+      "color": "yellow",
+      "svg": "<svg width=\"220\" height=\"170\" xmlns=\"http://www.w3.org/2000/svg\"> <g>  <rect fill=\"#ffff00\" x=\"10\" y=\"45\" width=\"180\" height=\"95\" id=\"svg_1\" stroke=\"#000\"/> </g></svg>"
+    },
+    {
+      "name": "rectangle",
+      "color": "lightblue",
+      "svg": "<svg width=\"220\" height=\"170\" xmlns=\"http://www.w3.org/2000/svg\"> <g>  <rect fill=\"#33d6ff\" x=\"10\" y=\"45\" width=\"180\" height=\"95\" id=\"svg_1\" stroke=\"#000\"/> </g></svg>"
+    },
+    {
+      "name": "rectangle",
+      "color": "grey",
+      "svg": "<svg width=\"220\" height=\"170\" xmlns=\"http://www.w3.org/2000/svg\"> <g>  <rect fill=\"#7f7f7f\" x=\"10\" y=\"45\" width=\"180\" height=\"95\" id=\"svg_1\" stroke=\"#000\"/> </g></svg>"
+    }
+  ]
+}

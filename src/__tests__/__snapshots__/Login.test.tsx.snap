@@ -1,0 +1,76 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Login /> the form should be submitted with username and password 1`] = `
+<div
+  className="sc-bdnxRM cGZbgt"
+>
+  <div
+    className="login-card"
+  >
+    <form
+      data-testid="login-form"
+      onSubmit={[Function]}
+    >
+      <div
+        className="sc-gtsrHT gwPHhe"
+      >
+        <label
+          htmlFor="username"
+        >
+          Username
+        </label>
+        <input
+          data-testid="username"
+          name="text"
+          onChange={[Function]}
+          placeholder="Please enter your Username"
+          type="text"
+          value="theusername"
+        />
+      </div>
+      <div
+        className="sc-gtsrHT gwPHhe"
+      >
+        <label
+          htmlFor="password"
+        >
+          Password
+        </label>
+        <input
+          data-testid="password"
+          name="password"
+          onChange={[Function]}
+          placeholder="Please enter your Password"
+          type="password"
+          value="thepassword"
+        />
+      </div>
+      <div
+        className="sc-dlnjwi iawPsM"
+      >
+        <button
+          data-testid="submit"
+          type="submit"
+        >
+          Login
+        </button>
+      </div>
+    </form>
+  </div>
+  <div
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    style={
+      Object {
+        "bottom": 16,
+        "left": 16,
+        "pointerEvents": "none",
+        "position": "fixed",
+        "right": 16,
+        "top": 16,
+        "zIndex": 9999,
+      }
+    }
+  />
+</div>
+`;

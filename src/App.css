@@ -1,0 +1,14 @@
+.container {
+  max-width: 80rem;
+  margin: 0 auto;
+}
+
+a {
+  text-decoration: none;
+}
+
+.clearfix {
+  clear: both;
+  display: table;
+  content: "";
+}
