@@ -163,7 +163,7 @@
     {
       "name": "rectangle",
       "color": "orange",
-      "svg": "<svg width=\"220\" height=\"170\" xmlns=\"http://www.w3.org/2000/svg\"> <g>  <rect fill=\"#0000ff\" x=\"10\" y=\"45\" width=\"180\" height=\"95\" id=\"svg_1\" stroke=\"#ff7f00\"/> </g></svg>"
+      "svg": "<svg width=\"220\" height=\"170\" xmlns=\"http://www.w3.org/2000/svg\"> <g>  <rect fill=\"#ff7f00\" x=\"10\" y=\"45\" width=\"180\" height=\"95\" id=\"svg_1\" stroke=\"#000\"/> </g></svg>"
     },
     {
       "name": "rectangle",
